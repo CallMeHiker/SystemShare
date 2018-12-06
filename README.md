@@ -60,7 +60,7 @@
 
 而第三方的分享，UI定制化程度高，而且分享出去后还会带有APP的图标及名称，可识别程度高，更利于推广。如下图
 
-![第三方分享效果图](https://upload-images.jianshu.io/upload_images/1648750-62ae3ca839d0cbd6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/310)
+![第三方分享效果图](https://upload-images.jianshu.io/upload_images/1648750-4bc2751c0b31deee.PNG)
 
 所以，最终选择哪种分享效果，需要你自己去权衡把握。
 ### 3.题外
@@ -69,4 +69,4 @@
 
 ![原生分享列表](https://upload-images.jianshu.io/upload_images/1648750-4bc2751c0b31deee.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/310)
 
-以上，iOS原生分享实现，以及优缺点描述。小[Demo]()，如有不妥之处，还望斧正。
+以上，iOS原生分享实现，以及优缺点描述。[简书](https://www.jianshu.com/p/18f7473a6aee)，如有不妥之处，还望斧正。
