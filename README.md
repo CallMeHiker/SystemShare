@@ -18,7 +18,7 @@
 * 缺点 
 `需要去友盟以及各个分享平台注册繁杂的账号、导入臃肿的SDK包。配置跳转白名单。`
 
-###2.原生分享实现
+### 2.原生分享实现
 说了优缺点，下面再说一下功能的具体实现。第三方分享的实现，网上已经有很多文章，各个平台也有自己的开发文档以及技术支持，我这里就不再赘述，下面主要说一下原生分享的实现。
 ```
 - (void)shareButtonDidTouched:(UIButton *)button
@@ -55,7 +55,7 @@
 而第三方的分享，UI定制化程度高，而且分享出去后还会带有APP的图标及名称，可识别程度高，更利于推广。如下图
 ![第三方分享效果图](https://upload-images.jianshu.io/upload_images/1648750-62ae3ca839d0cbd6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/310)
 所以，最终选择哪种分享效果，需要你自己去权衡把握。
-###3.题外
+### 3.题外
 如上图“分享流程图一”所示，原生分享所能选择的APP是固定，那怎样才能让自己的APP出现在原生的分享列表呢？(持续更新ing)
 这里先给个连接["iOS实现App之间的内容分享"。](https://www.jianshu.com/p/88a08d66894f)但这里实现的其实是文件的跨APP分享，比如图片，PDF，文档等，而不是像链接，文字等内容的分享。文件的跨APP分享，还是比较好实现，看上连接的图片就行，不再赘述。而内容的分享，暂时还没找到相关的资料，可能用到`App Extension`，后续再研究研究，有知道的大神也希望留个言，指点指点。
 ![原生分享列表](https://upload-images.jianshu.io/upload_images/1648750-4bc2751c0b31deee.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/310)
